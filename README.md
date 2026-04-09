@@ -1,9 +1,15 @@
 # Hi, I'm Paulo Maza! 👨🏽‍💻👋🏽
 
-- I am a fullstack developer from Colima, México 🇲🇽
-- Member of AxoloDev
+## 🎨 About Me
 
----
+> 🚀 Fullstack Developer building scalable web & mobile applications
+
+Member of AxoloDev  
+Passionate about building web and mobile applications  
+Always learning new technologies  
+Strong teamwork and problem-solving skills 
+
+![Banner](image.png)
 
 ## 🚀 Tech Stack
 
@@ -21,29 +27,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
 
----
-
-## 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-esteban-maza-rivera-673584290/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_paulo_maza_/)
-
----
-
-## 🎨 About Me
-
-💡 Passionate about building web and mobile applications  
-🚀 Always learning new technologies  
-🤝 Strong teamwork and problem-solving skills  
-
----
-
-## 🖼️ Banner
-
-![Banner](image.png)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -51,3 +34,27 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloMaza777&layout=compact&theme=tokyonight" height="150"/>
   <img src="https://streak-stats.demolab.com?user=PauloMaza777&theme=tokyonight" height="150"/>
 </p>
+
+## 📬 Contact
+
+<p align="center">
+
+<a href="mailto:paulo.esteban988@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+523123194578">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/paulo-esteban-maza-rivera-673584290/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_paulo_maza_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+
